@@ -1,5 +1,0 @@
-LunchVenue.sol
-0xbFbCe6b418eD291E0De51be62e1635E155579807
-
-LunchVenue_updated.sol
-0x21f6aa91A55E115cCb35843eee7df754e012ED65
